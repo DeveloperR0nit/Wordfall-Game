@@ -139,10 +139,10 @@ export default function AssemblyEndgame() {
     <main>
       {isGameWon && <Confetti recycle={false} numberOfPieces={1000} />}
       <header>
-        <h1>Assembly: Endgame</h1>
+        <h1>WordFall</h1>
         <p>
-          Guess the word within {heartsArr.length} attempts to keep the programming world safe
-          from Assembly!
+          Guess the word within {heartsArr.length} attempts to keep the world safe
+          from Aliens!
         </p>
       </header>
 
