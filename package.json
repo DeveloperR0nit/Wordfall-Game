@@ -2,7 +2,6 @@
   "name": "wordfall",
   "version": "1.0.0",
   "private": true,
-  "description": "A word-guessing game built with React",
   "scripts": {
     "start": "vite",
     "dev": "vite",
@@ -13,10 +12,8 @@
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "clsx": "2.1.1",
-    "react-confetti": "6.1.0"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-react": "*",
-    "vite": "latest"
+    "react-confetti": "6.1.0",
+    "vite": "latest",
+    "@vitejs/plugin-react": "*"
   }
 }
