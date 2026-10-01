@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/wordfall-game/",
+  base: "/Wordfall-Game/",
   server: {
     watch: {
       usePolling: true,
